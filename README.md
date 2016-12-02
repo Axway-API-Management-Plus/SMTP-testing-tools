@@ -1,7 +1,7 @@
 # Description
 - Useful tools for debugging anything where you have to deal with the API Gateway and email :
   * https://nilhcem.github.io/FakeSMTP/
-  * a Python script  
+  * a Python script (for Python V2 and V3)
  
  
 ## API Management Version Compatibilty
@@ -15,7 +15,8 @@ This artefact can be used with every API Management Plus version
 
 ## Usage
 - For FakeSMTP, refer to website
-- For Python script : sudo python script.py  
+- For Python script V2: ```python smtp_serverV2.py```
+- For Python script V3: ```sudo python smtp_serverV3.py```  
   
    
 ## Bug and Caveats
