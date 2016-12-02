@@ -1,5 +1,5 @@
 # Description
-- useful tools for debugging anything where you have to deal with the API Gateway and email :
+- Useful tools for debugging anything where you have to deal with the API Gateway and email :
   * https://nilhcem.github.io/FakeSMTP/
   * a Python script  
  
@@ -10,11 +10,12 @@ This artefact can be used with every API Management Plus version
 
 ## Install
 - For FakeSMTP, refer to website
+- For Python script : copy the .py file on the server
 
 
 ## Usage
 - For FakeSMTP, refer to website
-   
+- For Python script : sudo python script.py  
   
    
 ## Bug and Caveats
