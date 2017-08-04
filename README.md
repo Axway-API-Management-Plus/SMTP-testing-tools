@@ -34,4 +34,4 @@ Please read [Contributing.md](https://github.com/Axway-API-Management/Common/blo
 
 
 ## License
-[Apache License 2.0] (/LICENSE)
+[Apache License 2.0](/LICENSE)
